@@ -1,0 +1,228 @@
+.pos{
+    height: 15px;
+    width: 15px;
+    margin-left: 952px;
+    margin-top: 383px;
+    background-color: #FFCD41;
+    border-radius: 50%;
+    border: 3px #000000 solid;
+    display: inline-block;
+    z-index: 6;
+    position: absolute;
+    visibility: hidden;
+}
+.Field{
+    position: absolute;
+    width: 1500px;
+    height: auto;
+    margin-left: 960px;
+    transform: translate(-50%, 0%);
+    margin-top: 50px;
+    z-index: 3;
+    border: 15px #FFCD41 solid;
+    border-radius: 5px;
+}
+.Logo{
+    position: absolute;
+    width: 200px;
+    height: auto;
+    margin-left: 1400px;
+    transform: translate(-50%, 0%);
+    margin-top: 750px;
+    z-index: 3;
+}
+.inOut{
+    position: absolute;
+    width: 210px;
+    height: auto;
+    margin-left: 500px;
+    transform: translate(-50%, 0%);
+    margin-top: 765px;
+    z-index: 2;
+    font-weight: bold;
+    color: white;
+}
+.side{
+    position: absolute;
+    width: 210px;
+    height: auto;
+    margin-left: 500px;
+    transform: translate(-50%, 0%);
+    margin-top: 865px;
+    z-index: 2;
+    font-weight: bold;
+    color: white;
+}
+.yardLn{
+    position: absolute;
+    width: 210px;
+    height: auto;
+    margin-left: 700px;
+    transform: translate(-50%, 0%);
+    margin-top: 760px;
+    z-index: 2;
+}
+.stepsX{
+    position: absolute;
+    width: 210px;
+    height: auto;
+    margin-left: 700px;
+    transform: translate(-50%, 0%);
+    margin-top: 860px;
+    z-index: 2;
+}
+
+.frontBack{
+    position: absolute;
+    width: 210px;
+    height: auto;
+    margin-left: 950px;
+    transform: translate(-50%, 0%);
+    margin-top: 865px;
+    z-index: 2;
+    font-weight: bold;
+    color: white;
+ }
+.hashSteps{
+    position: absolute;
+    width: 210px;
+    height: auto;
+    margin-left: 1150px;
+    transform: translate(-50%, 0%);
+    margin-top: 760px;
+    z-index: 2;
+
+}
+.hash{
+    position: absolute;
+    width: 210px;
+    height: auto;
+    margin-left: 950px;
+    transform: translate(-50%, 0%);
+    margin-top: 765px;
+    z-index: 2;
+    font-weight: bold;
+    color: white;
+ }
+.plot{
+    position: absolute;
+    width: 210px;
+    height: 60px;
+    margin-left: 1150px;
+    transform: translate(-50%, 0%);
+    margin-top: 860px;
+    z-index: 2;
+    border: 5px #000000 solid;
+    border-radius: 25px;
+    background: maroon;
+    font-weight: bold;
+    color: white;
+}
+.backRec{
+    position: absolute;
+    width: 1525px;
+    height: 710px;
+    margin-left: 960px;
+    transform: translate(-50%, 0%);
+    margin-top: 35px;
+    z-index: 3;
+    border: 15px #000000 solid;
+    border-radius: 25px;
+}
+.iOBorder{
+    position: absolute;
+    width: 210px;
+    height: 60px;
+    margin-left: 475px;
+    transform: translate(-50%, 0%);
+    margin-top: 760px;
+    border: 5px #000000 solid;
+    border-radius: 25px;
+    background: maroon;
+    z-index: 1;
+}
+.sideBorder{
+    position: absolute;
+    width: 210px;
+    height: 60px;
+    margin-left: 475px;
+    transform: translate(-50%, 0%);
+    margin-top: 860px;
+    border: 5px #000000 solid;
+    border-radius: 25px;
+    background: maroon;
+    z-index: 1;
+}
+.vHBorder{
+    position: absolute;
+    width: 210px;
+    height: 60px;
+    margin-left: 925px;
+    transform: translate(-50%, 0%);
+    margin-top: 760px;
+    border: 5px #000000 solid;
+    border-radius: 25px;
+    background: maroon;
+    z-index: 1;
+}
+.fBBorder{
+    position: absolute;
+    width: 210px;
+    height: 60px;
+    margin-left: 925px;
+    transform: translate(-50%, 0%);
+    margin-top: 860px;
+    border: 5px #000000 solid;
+    border-radius: 25px;
+    background: maroon;
+    z-index: 1;
+}
+#yardInput{
+    font-weight: bold;
+    border: 5px #000000 solid;
+    border-radius: 25px;
+    z-index: 1;
+    width: 210px;
+    height: 60px;
+    background-color: maroon;
+}
+#stepsInput{
+    font-weight: bold;
+    border: 5px #000000 solid;
+    border-radius: 25px;
+    z-index: 1;
+    width: 210px;
+    height: 60px;
+    background-color: maroon;
+}
+#hashSteps{
+    font-weight: bold;
+    border: 5px #000000 solid;
+    border-radius: 25px;
+    z-index: 1;
+    width: 210px;
+    height: 60px;
+    background-color: maroon;
+}
+input{
+    color: white;
+    text-align: center;
+}
+.credits{
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+    margin-left: 1500px;
+    margin-top: 800px;
+    position: absolute;
+    font-style: italic;
+}
+.credits2{
+    color: white;
+    font-weight: bold;
+    margin-left: 1500px;
+    margin-top: 835px;
+    font-size: medium;
+    position: absolute;
+    font-style: italic;
+}
